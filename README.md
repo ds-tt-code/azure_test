@@ -1,0 +1,2 @@
+# azure_test
+azureからgithubへのアクセステストに用いるリポジトリ
